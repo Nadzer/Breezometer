@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Breezometer</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_city">Search a city</string>
+    <string name="country">Country</string>
+    <string name="aqi">Air quality</string>
+    <string name="sport">Sport</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_intro">Introduction</string>
+    <string name="breezo_icon">Breezometer Icon</string>
+    <string name="list_image">List image</string>
+</resources>
